@@ -1,5 +1,5 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# SnaT (Snap & Track) Meal Tracking App
 ___
 
 ## Please refer the instructions in below URL:
