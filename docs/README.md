@@ -31,8 +31,9 @@ title: SnaT Meal Tracking App
 
 This is a multi-platformed application to track user's Meals in order to give feedback about state of nutrition consumption of the user over a some time period.This application is based on SriLankan food culture and with some other features.
 
-
-
+<p align="center">
+  <img width="500" src="https://aaps.ca/wp-content/uploads/Aug-6-sport-and-nutrition-training.jpg" alt="Material Bread logo">
+</p>
 
 
 
