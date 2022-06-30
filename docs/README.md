@@ -39,8 +39,8 @@ This is a multi-platformed application to track user's Meals in order to give fe
 
 
 # Technology Stack
-![tech stack](https://user-images.githubusercontent.com/73680106/176659070-eb03a351-84ab-4c7c-b928-6089b401a6a2.png)
 
+<img src="https://user-images.githubusercontent.com/73680106/176659070-eb03a351-84ab-4c7c-b928-6089b401a6a2.png" alt="tech stack" width="600"/>
 
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
@@ -49,7 +49,8 @@ This is a multi-platformed application to track user's Meals in order to give fe
 
 # Solution Architecture
 
-<img src="https://user-images.githubusercontent.com/73680106/176659901-62330cb1-097a-4a09-9986-078517ad64bb.png" alt="drawing" width="700"/>
+<img src="https://user-images.githubusercontent.com/73680106/176661576-ca4a83ce-e40a-40f3-ac42-a2d733c445e0.png" alt="drawing" width="700"/>
+
 
 
 # Features
