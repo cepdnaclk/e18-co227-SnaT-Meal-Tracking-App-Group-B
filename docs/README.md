@@ -48,11 +48,16 @@ This is a multi-platformed application to track user's Meals in order to give fe
 # Features
 
 ### Login 
-* Username -Password Login /  Signup Page
-* Login with Google
+This app provide two sign in methods. User can first sign up using an email and a password and then they can proceed with sign in.Other than that user can simply use google sign in method.
+
+How does it work?
+
+To sign in, first the app should get authentication credentials from user. For this app credential can be email and password or the oAuth token from google. Then the app pass these credential to Firebase Authentication SDK.After that it will verify those credentials and return respose to the app.Now, the app can access the user's basic profile information. 
 
 ### User Registration 
-* Enter user’s details : Name , Birth Date , Height , Weight
+For the registration purposes, the user is required to enter username, date of birth, gender, height and weight.This details use for other features.
+
+Ex:- BMI calculator
 
 ### BMI calculator 
 * Enter details and show the BMI value
