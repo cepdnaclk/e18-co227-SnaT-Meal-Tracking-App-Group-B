@@ -58,7 +58,7 @@ The app contains user-friendly interfaces that allows user to have great experie
 </p>
 
 <p align="center">
-  <img width="900" src="https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B/blob/main/docs/images/storage.PNG" alt="Taking picture of food">
+  <img width="900" src="https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B/blob/main/docs/images/storage.PNG" alt="Storage">
 </p>
 
 
