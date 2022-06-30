@@ -13,24 +13,23 @@ title: SnaT Meal Tracking App
 
 ---
 
-![](https://s3.amazonaws.com/img.mynetdiary.com/images/iphonex@1x.png)
-
-
 ## Team
 -  E/18/068, Chiran Devinda, [e18068@eng.pdn.ac.lk](mailto:name@email.com)
 -  E/18/368, Hirusha Uthsara, [e18368@eng.pdn.ac.lk](mailto:name@email.com)
 -  E/18/030, Sathsarani Aththanayaka, [e18030@eng.pdn.ac.lk](mailto:name@email.com)
 
 ## Table of Contents
-1. [Changes](#changes)
-2. [Current App](#current-app)
-3. [Analysis and Suggestions](#analysis-and-suggestions)
-4. [Features](#features)
+1. [Introduction](#introduction)
+2. [Solution Architecture](#solution-architecture)
+3. [Features](#features)
+4. [Links](#links)
 
 ---
 
-# Changes
+# Introduction
+This is a multi-platformed application to track user's Meals in order to give feedback about state of nutrition consumption of the user over a some time period.This application is based on SriLankan food culture and with some other features.
 
+![](https://s3.amazonaws.com/img.mynetdiary.com/images/iphonex@1x.png)
 
 ### a) Phase 01
 
@@ -63,7 +62,7 @@ title: SnaT Meal Tracking App
 * __Implement Software (Desktop  Application)__ - This should be developed as both an app and software as in Sri Lanka this age group mostly uses computers or laptops rather than mobile phones. 
 
 
-# Current App
+# Solution Architecture
 
 
 ### a . High Level Architecture
