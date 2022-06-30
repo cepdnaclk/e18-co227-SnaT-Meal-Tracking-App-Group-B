@@ -34,7 +34,7 @@ This is a multi-platformed application to track user's Meals in order to give fe
 
 
 
-<video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=180/>
+
 
 
 
@@ -81,7 +81,7 @@ Images should be shown as an attractive  gallery  . You can limit the search dat
 * List all the food by food group  with the stansdad serving size . (Then user can find the  preferred  consumable portion of each food)  
 
 
-
+<video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=180/>
 
 ## Links
 
