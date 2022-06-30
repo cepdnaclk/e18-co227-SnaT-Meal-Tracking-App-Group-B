@@ -27,9 +27,12 @@ title: SnaT Meal Tracking App
 ---
 
 # Introduction
+
 This is a multi-platformed application to track user's Meals in order to give feedback about state of nutrition consumption of the user over a some time period.This application is based on SriLankan food culture and with some other features.
 
-![](https://s3.amazonaws.com/img.mynetdiary.com/images/iphonex@1x.png)
+
+
+# Solution Architecture
 
 
 # Features
