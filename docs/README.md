@@ -39,7 +39,9 @@ This is a multi-platformed application to track user's Meals in order to give fe
 
 
 # Technology Stack
-
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [Firestore](https://firebase.google.com/products/firestore?gclid=CjwKCAjwkYGVBhArEiwA4sZLuKu5oA_7xzoBYUbQzs9VdFiaHN1tmOt0Oc_pEWFD1jdu-QmmLyhVrRoCK-wQAvD_BwE&gclsrc=aw.ds)
 
 
 # Solution Architecture
