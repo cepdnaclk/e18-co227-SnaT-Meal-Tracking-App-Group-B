@@ -34,7 +34,7 @@ This is a multi-platformed application to track user's Meals in order to give fe
 The app contains user-friendly interfaces that allows user to have great experience. The home page shows the list of main course meals such as breakfast,lunch and dinner and also snaks.Let's think you want to add your lunch, you can click on that button and add the meal with the sizes.In addition, there is a feature which facilitate to take picture of your food and save it into a gallery with respect to the relavant date and also the respective course meal. User can navigate through the app bar and find more features that are offered from this app.This app generate attractive graphs which are showing the state of nutrition consumption of the user over a specific time period.
 
 <p align="center">
-  <img width="500" src="https://aaps.ca/wp-content/uploads/Aug-6-sport-and-nutrition-training.jpg" alt="Material Bread logo">
+  <img width="500" src="https://aaps.ca/wp-content/uploads/Aug-6-sport-and-nutrition-training.jpg" alt="Taking picture of food">
 </p>
 
 
@@ -52,8 +52,9 @@ The app contains user-friendly interfaces that allows user to have great experie
 
 # Solution Architecture
 
-<img src="https://user-images.githubusercontent.com/73680106/176661576-ca4a83ce-e40a-40f3-ac42-a2d733c445e0.png" alt="drawing" width="700"/>
-
+<p align="center">
+  <img width="900" src="https://user-images.githubusercontent.com/73680106/176661576-ca4a83ce-e40a-40f3-ac42-a2d733c445e0.png" alt="drawing">
+</p>
 
 
 # Features
