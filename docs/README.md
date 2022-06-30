@@ -41,6 +41,7 @@ The app contains user-friendly interfaces that allows user to have great experie
 
 
 
+
 # Technology Stack
 
 <img src="https://user-images.githubusercontent.com/73680106/176659070-eb03a351-84ab-4c7c-b928-6089b401a6a2.png" alt="tech stack" width="600"/>
@@ -54,6 +55,10 @@ The app contains user-friendly interfaces that allows user to have great experie
 
 <p align="center">
   <img width="900" src="https://user-images.githubusercontent.com/73680106/176661576-ca4a83ce-e40a-40f3-ac42-a2d733c445e0.png" alt="drawing">
+</p>
+
+<p align="center">
+  <img width="900" src="https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B/blob/main/docs/images/storage.PNG" alt="Taking picture of food">
 </p>
 
 
