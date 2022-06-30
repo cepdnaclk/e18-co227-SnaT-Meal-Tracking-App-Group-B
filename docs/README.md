@@ -31,67 +31,6 @@ This is a multi-platformed application to track user's Meals in order to give fe
 
 ![](https://s3.amazonaws.com/img.mynetdiary.com/images/iphonex@1x.png)
 
-### a) Phase 01
-
- * __Increase  user experience__ - Need to change  the user interface  of the  application  to increase user experience.  (example : Apply nice  theme/format)
-
- * __Arrangement  of  images__ - Users can take pictures  of  their meals/food and  upload to the system. These  images should  be  nicely presented as albums. 
-
- * __Output__  - According  to data  entered  by the  users , the application should be able to provide weekly/monthly summary output.  It gives attractive self reflection of the users.Emojis  will be used to reflect the result of output.
-
-
-
-### b) Phase 02
-
-
-* __Interact with social media__ -  Need to add a separate  functionality to post their results of the application  to social media. 
-
-* __Process images__ -  By  processing images , System may suggest the food  type.  Users may have to confirm or  otherwise  users can select the food manually.   
-
-* __Add Digital Nudging System__ - By setting reminders on peak meal times and sending some nutritional guidelines and healthy tips with it as messages
-
-* __Incorporate of remote nutrition counseling facility__ - Should create a website linked to SnaT in order to take dietary advice through experts in this subject (Dieticians/ Nutritionists/ Doctors)
-
-
-
-### c) Phase 03
-
-
-* __Developing SnaT junior app__ - Should need to add some fun games which are suitable for pre-adolescents and adolescents to trigger their healthy eating patterns. 
-
-* __Implement Software (Desktop  Application)__ - This should be developed as both an app and software as in Sri Lanka this age group mostly uses computers or laptops rather than mobile phones. 
-
-
-# Solution Architecture
-
-
-### a . High Level Architecture
-
-![9acd375d-de6c-4add-959a-e34db734d65a](https://user-images.githubusercontent.com/73680106/172762386-ab954aa2-e471-409a-92e3-5312c2a4f5f5.jpg)
-
-### b . Mobile technology ( Operating system)
-* __Android Platform Application__
-
-### c . Database
-* __SQlite Database__
-
-
-## Analysis and Suggestions
-
-### a . High Level Architecture
-![556e3f0a-5c4b-45c5-810a-b289f07d2340](https://user-images.githubusercontent.com/73680106/172762223-20373859-0953-4a95-87ff-67e3fa7eed9d.jpg)
-
-### b . Mobile technology ( Operating system)
-* Google's Android and Apple's iOS are operating systems used primarily in mobile technology.
-* If we go only with an Android native application, we may not be able to access  this app by apple devices.
-For this application , the suggestion is  to go with the hybrid approach.
-
-
-### c . Database
-* In general , we can have two types of databases  in mobile application development. They are remote  databases , Local databases. If you need to have data which is specific to the device , we can have a local database. Local database is stored in client side (in mobile device)
-* If we have only a local database , if something happens to the  device all  the data will be missed.  Otherwise we have to have a  mechanism to back up and restore  data. 
-* For this  application , it is preferred  to have a remote  database .  If we need offline synchronization, additionally we can have a local database.
-
 
 # Features
 
