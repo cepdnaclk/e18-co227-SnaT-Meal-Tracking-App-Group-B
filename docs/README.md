@@ -39,12 +39,17 @@ This is a multi-platformed application to track user's Meals in order to give fe
 
 
 # Technology Stack
+![tech stack](https://user-images.githubusercontent.com/73680106/176659070-eb03a351-84ab-4c7c-b928-6089b401a6a2.png)
+
+
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 - [Firestore](https://firebase.google.com/products/firestore?gclid=CjwKCAjwkYGVBhArEiwA4sZLuKu5oA_7xzoBYUbQzs9VdFiaHN1tmOt0Oc_pEWFD1jdu-QmmLyhVrRoCK-wQAvD_BwE&gclsrc=aw.ds)
 
 
 # Solution Architecture
+
+<img src="https://user-images.githubusercontent.com/73680106/176659901-62330cb1-097a-4a09-9986-078517ad64bb.png" alt="drawing" width="700"/>
 
 
 # Features
@@ -88,7 +93,7 @@ Images should be shown as an attractive  gallery  . You can limit the search dat
 * List all the food by food group  with the stansdad serving size . (Then user can find the  preferred  consumable portion of each food)  
 
 
-<video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=180/>
+<video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=400/>
 
 ## Links
 
