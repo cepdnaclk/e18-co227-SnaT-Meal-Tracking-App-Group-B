@@ -20,15 +20,25 @@ title: SnaT Meal Tracking App
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Solution Architecture](#solution-architecture)
-3. [Features](#features)
-4. [Links](#links)
+2. [Technology Stack](#technology-stack)
+3. [Solution Architecture](#solution-architecture)
+4. [Features](#features)
+5. [Links](#links)
 
 ---
 
 # Introduction
 
 This is a multi-platformed application to track user's Meals in order to give feedback about state of nutrition consumption of the user over a some time period.This application is based on SriLankan food culture and with some other features.
+
+
+
+
+<video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=180/>
+
+
+
+# Technology Stack
 
 
 
