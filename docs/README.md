@@ -58,6 +58,9 @@ The app contains user-friendly interfaces that allows user to have great experie
 </p>
 
 
+<p align="center">
+  <img width="900" src="https://user-images.githubusercontent.com/73664068/176867110-5b655532-0b7f-4265-8002-f80434fbffec.PNG" alt="storage">
+</p>
 
 
 # Features
@@ -67,7 +70,10 @@ This app provide two sign in methods. User can first sign up using an email and 
 
 How does it work?
 
-To sign in, first the app should get authentication credentials from user. For this app credential can be email and password or the oAuth token from google. Then the app pass these credential to Firebase Authentication SDK.After that it will verify those credentials and return respose to the app.Now, the app can access the user's basic profile information. 
+To sign in, first the app should get authentication credentials from user. For this app credential can be email and password or the oAuth token from google. Then the app pass these credential to Firebase Authentication SDK.After that it will verify those credentials and return respose to the app.Now, the app can access the user's basic profile information.
+
+
+
 
 ### User Registration 
 For the registration purposes, the user is required to enter username, date of birth, gender, height and weight.This details use for other features.
