@@ -59,7 +59,7 @@ The app contains user-friendly interfaces that allows user to have great experie
 
 
 <p align="center">
-  <img width=700" src="https://user-images.githubusercontent.com/73664068/176867110-5b655532-0b7f-4265-8002-f80434fbffec.PNG" alt="storage">
+  <img width="700" src="https://user-images.githubusercontent.com/73664068/176867110-5b655532-0b7f-4265-8002-f80434fbffec.PNG" alt="storage">
 </p>
 
 
