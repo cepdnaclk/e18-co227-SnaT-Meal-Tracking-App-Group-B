@@ -72,7 +72,7 @@ How does it work?
 
 To sign in, first the app should get authentication credentials from user. For this app credential can be email and password or the oAuth token from google. Then the app pass these credential to Firebase Authentication SDK.After that it will verify those credentials and return respose to the app.Now, the app can access the user's basic profile information.
 
-
+<img src="https://user-images.githubusercontent.com/73664068/176868525-1bbaa1f2-7c06-456c-ac37-6b295261776f.jpg" width="300" />
 
 
 ### User Registration 
@@ -80,19 +80,27 @@ For the registration purposes, the user is required to enter username, date of b
 
 Ex:- BMI calculator
 
+<img src="https://user-images.githubusercontent.com/73664068/176868581-04c3f756-8d95-4573-b20d-5f61ceefc771.jpg" width="300" /> 
+
 ### BMI calculator 
 * Enter details and show the BMI value
 * If the user confirms, that data should be able to save to the database.  
 
+<img src="https://user-images.githubusercontent.com/73664068/176869561-27bf16ee-6508-4773-9ebb-5db62918a562.jpg" width="300" /> 
 	     
 ### Maintain Meal Details 
 * Select  the date (if same day , no need to select date), meal type  , the relevant food from the list (if that food is not  in the list user should be able to enter * that food to the relevant food group) and quantity according  to the suggested  unit.
  Users should be able to edit and delete data by selecting  the date.
+ 
+<img src="https://user-images.githubusercontent.com/73664068/176869732-eb5997a2-efca-4948-9df4-6e2e8d3b6571.jpg" width="300" /> 
+ 
 
 ### Maintain images  of meals
 * Users should be able to select the date ,meal type and upload the images 
 * Users should be able to  open the camera  from the app  and upload  the image. (optional)
 Images should be shown as an attractive  gallery  . You can limit the search date  range maximum upto 1 month , if necessary.
+
+<img src="https://user-images.githubusercontent.com/73664068/176869895-720b7bd8-c395-434f-9bea-105afff19a1f.jpg" width="300" /> 
   
 ### Output/Results
 * Show   daily/ Monthly/weekly results according to the food groups whether they are beyond the expected range, within the expected  range or below the expected range. Note: Use Emojis.
@@ -103,9 +111,9 @@ Images should be shown as an attractive  gallery  . You can limit the search dat
 ### App Notification
 * If the user forgot to add  any meal for yesterday ,the application should show a notification  in the morning.  (  one user  gets  maximum one app notification per day)
 
-### List  all  food 
-* List all the food by food group  with the stansdad serving size . (Then user can find the  preferred  consumable portion of each food)  
-
+### Language Translation 
+* App supports English(US), Sinhala & Tamil
+<img src="https://user-images.githubusercontent.com/73664068/176871011-41fc0255-499b-4fe1-96ec-f6e31af034df.jpg" width="300" /> 
 
 <video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=400/>
 
