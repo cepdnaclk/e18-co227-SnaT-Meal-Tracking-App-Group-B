@@ -119,7 +119,7 @@ Images should be shown as an attractive  gallery  . You can limit the search dat
 
 
 
-<video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=400/>
+<video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=900/>
 
 ## Links
 
