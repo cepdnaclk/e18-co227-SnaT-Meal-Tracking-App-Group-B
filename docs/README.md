@@ -113,6 +113,8 @@ Images should be shown as an attractive  gallery  . You can limit the search dat
 
 ### Language Translation 
 * App supports English(US), Sinhala & Tamil
+
+
 <img src="https://user-images.githubusercontent.com/73664068/176871011-41fc0255-499b-4fe1-96ec-f6e31af034df.jpg" width="300" /> 
 
 <video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=400/>
