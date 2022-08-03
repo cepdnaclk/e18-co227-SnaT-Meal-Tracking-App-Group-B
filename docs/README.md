@@ -70,6 +70,12 @@ The app contains user-friendly interfaces that allows user to have great experie
 
 
 # Features
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/73664068/182664739-b7fc69bb-c3c8-4085-892c-3c9e631ad6ce.jpg" alt="Front">
+</p>
+
+
+
 
 ### Login 
 This app provide two sign in methods. User can first sign up using an email and a password and then they can proceed with sign in.Other than that user can simply use google sign in method.
@@ -78,21 +84,30 @@ How does it work?
 
 To sign in, first the app should get authentication credentials from user. For this app credential can be email and password or the oAuth token from google. Then the app pass these credential to Firebase Authentication SDK.After that it will verify those credentials and return respose to the app.Now, the app can access the user's basic profile information.
 
-<img src="https://user-images.githubusercontent.com/73664068/176868525-1bbaa1f2-7c06-456c-ac37-6b295261776f.jpg" width="300" />
 
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/73664068/182665240-b83de9c7-3200-4ccf-8c70-ea374c2273bb.jpg" alt="SignIn">
+</p>
 
 ### User Registration 
 For the registration purposes, the user is required to enter username, date of birth, gender, height and weight.This details use for other features.
 
 Ex:- BMI calculator
 
-<img src="https://user-images.githubusercontent.com/73664068/176868581-04c3f756-8d95-4573-b20d-5f61ceefc771.jpg" width="300" /> 
+
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/73664068/182665643-8521edfa-9c39-4d42-a8e3-dcf8150f9cbd.jpg" alt="Registration">
+</p>
 
 ### BMI calculator 
 * Show the BMI value of the user.
 * It gives additional feedback about BMI using gender and age.
 
-<img src="https://user-images.githubusercontent.com/73664068/176869561-27bf16ee-6508-4773-9ebb-5db62918a562.jpg" width="300" />
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/73664068/182666194-0e0a3474-f05d-473d-91bc-1a9443ebf1e2.jpg" alt="Registration">
+</p>
 
 
 ### Maintain images  of meals
@@ -105,7 +120,10 @@ Ex:- BMI calculator
 * There will have small description about the imagesin gallery after selecta image
 
 
-<img src="https://user-images.githubusercontent.com/73664068/176869895-720b7bd8-c395-434f-9bea-105afff19a1f.jpg" width="300" /> 
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/73664068/182666436-1ea56bc5-dc2c-470d-85e0-55249699f4bd.jpg" alt="mealGallery">
+</p>
+
   
 
 ### App Notification
