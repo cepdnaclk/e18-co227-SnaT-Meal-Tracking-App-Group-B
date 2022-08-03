@@ -85,9 +85,8 @@ How does it work?
 To sign in, first the app should get authentication credentials from user. For this app credential can be email and password or the oAuth token from google. Then the app pass these credential to Firebase Authentication SDK.After that it will verify those credentials and return respose to the app.Now, the app can access the user's basic profile information.
 
 
-
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/73664068/182665240-b83de9c7-3200-4ccf-8c70-ea374c2273bb.jpg" alt="SignIn">
+  <img width="800" src="https://user-images.githubusercontent.com/73664068/182669513-f741add1-8e42-4ca0-8394-94987c50a190.jpg" alt="SignIn">
 </p>
 
 ### User Registration 
@@ -97,7 +96,7 @@ Ex:- BMI calculator
 
 
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/73664068/182665643-8521edfa-9c39-4d42-a8e3-dcf8150f9cbd.jpg" alt="Registration">
+  <img width="250" src="https://user-images.githubusercontent.com/73664068/182665643-8521edfa-9c39-4d42-a8e3-dcf8150f9cbd.jpg" alt="Registration">
 </p>
 
 ### BMI calculator 
