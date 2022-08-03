@@ -128,17 +128,25 @@ Ex:- BMI calculator
 ### App Notification
 * If user forgot to add a meal, this will pop up a notification.
 
-<img src="https://user-images.githubusercontent.com/73664068/176871011-41fc0255-499b-4fe1-96ec-f6e31af034df.jpg" width="300" /> 
+<p align="center">
+  <img width="250" src="https://user-images.githubusercontent.com/73664068/182671840-6a7dad07-19dc-4b61-8d4c-17b108714d0a.jpg" alt="Notification">
+</p>
+
+
+
 
 ### Language Translation 
 * App supports English(US), Sinhala & Tamil.
 
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/73664068/182672037-92b742f2-b7ae-42a2-ace4-ec98da226946.jpg" alt="Translation">
+</p>
 
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
+- [Project Repository](https://github.com/cepdnaclk/SnaT-meal-tracking-app)
+- [Project Page](https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
