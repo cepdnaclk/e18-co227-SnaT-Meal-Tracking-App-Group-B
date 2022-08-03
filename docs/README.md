@@ -71,7 +71,7 @@ The app contains user-friendly interfaces that allows user to have great experie
 
 # Features
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/73664068/182664739-b7fc69bb-c3c8-4085-892c-3c9e631ad6ce.jpg" alt="Front">
+  <img width="800" src="https://user-images.githubusercontent.com/73664068/182664739-b7fc69bb-c3c8-4085-892c-3c9e631ad6ce.jpg" alt="Front">
 </p>
 
 
@@ -87,7 +87,7 @@ To sign in, first the app should get authentication credentials from user. For t
 
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/73664068/182665240-b83de9c7-3200-4ccf-8c70-ea374c2273bb.jpg" alt="SignIn">
+  <img width="800" src="https://user-images.githubusercontent.com/73664068/182665240-b83de9c7-3200-4ccf-8c70-ea374c2273bb.jpg" alt="SignIn">
 </p>
 
 ### User Registration 
@@ -97,7 +97,7 @@ Ex:- BMI calculator
 
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/73664068/182665643-8521edfa-9c39-4d42-a8e3-dcf8150f9cbd.jpg" alt="Registration">
+  <img width="200" src="https://user-images.githubusercontent.com/73664068/182665643-8521edfa-9c39-4d42-a8e3-dcf8150f9cbd.jpg" alt="Registration">
 </p>
 
 ### BMI calculator 
@@ -106,7 +106,7 @@ Ex:- BMI calculator
 
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/73664068/182666194-0e0a3474-f05d-473d-91bc-1a9443ebf1e2.jpg" alt="Registration">
+  <img width="800" src="https://user-images.githubusercontent.com/73664068/182666194-0e0a3474-f05d-473d-91bc-1a9443ebf1e2.jpg" alt="BMI">
 </p>
 
 
@@ -121,7 +121,7 @@ Ex:- BMI calculator
 
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/73664068/182666436-1ea56bc5-dc2c-470d-85e0-55249699f4bd.jpg" alt="mealGallery">
+  <img width="800" src="https://user-images.githubusercontent.com/73664068/182666436-1ea56bc5-dc2c-470d-85e0-55249699f4bd.jpg" alt="mealGallery">
 </p>
 
   
@@ -133,11 +133,6 @@ Ex:- BMI calculator
 
 ### Language Translation 
 * App supports English(US), Sinhala & Tamil.
-
-
-
-<video src='https://user-images.githubusercontent.com/73680106/176605718-151da18b-c280-426a-8ec4-26e54d5f44ea.mp4' width=900/>
-
 
 
 
