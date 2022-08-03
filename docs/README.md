@@ -98,7 +98,11 @@ Ex:- BMI calculator
 ### Maintain images  of meals
 * Users can select the date ,meal type and upload the images.
 * Users can open the camera  from the app  and upload  the image. These images store in cloud space.
-* The app loads images from the cloud storage and show them in a attractive gallery.
+* The app can load the according to the selected date range and here is a  limit the search date range maximum upto 1 week
+* The app loads images from the cloud storage according to the selected meal time 
+* The images will show with grid view and list view
+* User will be able to delete the images through gallery
+* There will have small description about the imagesin gallery after selecta image
 
 
 <img src="https://user-images.githubusercontent.com/73664068/176869895-720b7bd8-c395-434f-9bea-105afff19a1f.jpg" width="300" /> 
